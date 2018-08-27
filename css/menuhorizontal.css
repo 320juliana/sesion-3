@@ -1,0 +1,62 @@
+ul{
+	list-style-type: none;
+	margin: 0px;
+    padding: 0px;
+    border:1px solid #FFD7F9;
+    background-color:  #CBB1B2 ;
+    
+}
+li{
+	display: inline-block;
+
+
+}
+a{
+	font-family: 'Gloria Hallelujah', cursive;
+	text-decoration: none;
+	font-size: 30px;
+	padding: 1px;
+	border:1px solid #ccc;
+	color: #000000;
+
+
+
+}
+a:hover{
+
+   color: #E0001F;
+   background-color: #EFFFFA;
+   border-bottom: 5px solid #1A00FF;
+}
+body{
+
+}
+span{
+	font-size: 30px;
+	color: #0F030C;
+
+}
+span:hover{
+	color: #E0001F;
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

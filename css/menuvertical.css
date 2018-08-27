@@ -1,0 +1,31 @@
+ul{
+	list-style-type: none ;
+	/*Quitamos margenes*/
+	margin: 0px ;
+	padding: 0px ;
+    /*Especificamos el borde ancho estilo y color*/
+	border:1px solid  #000000;
+	/*Ancho*/
+	width: 300px;
+
+}
+a{
+	font-family: 'Gloria Hallelujah', cursive;
+	text-decoration: none;
+	font-size: 20px;
+	display: block;
+	padding: 6px;
+	border:1px solid #ccc;
+	background-color: #CBB1B2;
+	color: #000000;
+
+
+}
+a:hover{
+
+   color: #E0001F;
+   background-color: #EFFFFA;
+   border-right: 5px solid #0B00FF ;
+}
+
+
